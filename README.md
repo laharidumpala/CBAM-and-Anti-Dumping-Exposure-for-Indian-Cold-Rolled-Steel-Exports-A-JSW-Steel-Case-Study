@@ -29,7 +29,7 @@ anti-dumping determination, and its own FY2025-26 Integrated Report discloses
 CBAM as a material transition risk with direct cost implications for its
 European exports — giving it the most defensible evidentiary basis of the three.
 
----
+
 
 ## 2. Regulatory Background
 
@@ -56,7 +56,7 @@ was issued in June 2026, with compliance mandated from FY2026-27 — meaning the
 first three months of calendar 2026 (which fall in FY2025-26) are not yet
 covered.
 
----
+
 
 ## 3. Data and Methodology
 
@@ -93,7 +93,7 @@ for cold-rolled coil (€655/tonne, 6 August 2026).
 **Domestic-import spread.** Derived from Platts' same-day assessments: €825/t
 domestic ex-works Ruhr minus €655/t imported CIF Antwerp = €170/t.
 
----
+
 
 ## 4. Findings
 
@@ -156,7 +156,7 @@ practice**: Article 9-equivalent recognition of CCTS as an EU-equivalent carbon
 pricing scheme is unconfirmed, meaning the deduction may not be legally
 permitted for any part of 2026 regardless of domestic timing.
 
----
+
 
 ## 5. Limitations
 
@@ -186,7 +186,7 @@ permitted for any part of 2026 regardless of domestic timing.
   company disclosures; no CBAM-relevant installation-level production split was
   available.
 
----
+
 
 ## 6. Data Sources
 
